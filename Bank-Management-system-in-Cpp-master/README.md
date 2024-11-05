@@ -1,10 +1,7 @@
-# Bus Reservation System
+# Bank_Managemet_System
 
 Welcome to the Bank Management System using C++ with source code and step by step explanation of how to use it. The system will allow users to create accounts, deposit and withdraw money, check balances, list all account holders, modify account details, and close accounts. This project will be console-based and is suitable for beginners learning C++.
 
-![Screenshot 1](https://guiprojects.com/wp-content/uploads/2024/02/image-23.png)
-- [Check out our full project on our Website with Full explanation](https://guiprojects.com/bank-management-system-project).
-- [Visit Our Website](https://guiprojects.com/)
 ## Table of Contents
 
 - [Features](#features)
@@ -14,9 +11,6 @@ Welcome to the Bank Management System using C++ with source code and step by ste
   - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-
-
-
 ## Features
 
 -	New Account Creation: Users can create new bank accounts.
@@ -34,21 +28,6 @@ Welcome to the Bank Management System using C++ with source code and step by ste
 ### Prerequisites
 
 - C++ Compiler - Ensure you have a C++ compiler installed.
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    https://github.com/AbdullahIbrahim157/Bank-Management-system-in-Cpp/
-    ```
-
-2. Compile the source.cpp file:
-
-   
-
-3. Run the executable:
-
     
 ## Usage
 
